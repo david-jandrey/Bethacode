@@ -1,0 +1,2 @@
+# Bethacode
+Betha code 
